@@ -58,3 +58,4 @@ npm run dev             # Starts on http://localhost:5173
 │       ├── context/    # Auth context
 │       └── services/   # API client (axios)
 ```
+"# Golf_Charity_Platform" 
