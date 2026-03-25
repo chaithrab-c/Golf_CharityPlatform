@@ -60,3 +60,4 @@ npm run dev             # Starts on http://localhost:5173
 ```
 "# Golf_Charity_Platform" 
 "# Golf_Charity_Platform" 
+"# Golf_CharityPlatform" 
